@@ -24,7 +24,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files
-.env
 .env*.local
 .env.development.local
 .env.test.local
@@ -35,7 +34,6 @@ yarn-error.log*
 next-env.d.ts
 
 # IDE
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -47,3 +45,4 @@ next-env.d.ts
 
 # turbo
 .turbo/
+config.bat
